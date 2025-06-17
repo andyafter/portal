@@ -1,0 +1,9 @@
+# Ignore node modules and build output
+poker-table/node_modules
+poker-table/.next
+poker-table/out
+poker-table/.vercel
+
+# Ignore logs
+npm-debug.log*
+
